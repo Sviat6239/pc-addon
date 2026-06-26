@@ -1,0 +1,40 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "computarization:nand_gate_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "CTF",
+            "NRA",
+            "FTC"
+        ],
+        "key": {
+            "R": {
+                "item": "minecraft:redstone"
+            },
+            "C": {
+                "item": "minecraft:copper_nugget"
+            },
+            "T": {
+                "item": "computarization:transistor"
+            },
+            "F": {
+                "item": "minecraft:flint"
+            },
+            "A": {
+                "item": "computarization:and_gate"
+            },
+            "N": {
+                "item": "computarization:not_gate"
+            }
+        },
+        "result": {
+            "item": "computarization:nand_gate",
+            "count": 1
+        }
+    }
+}
