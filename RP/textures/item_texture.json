@@ -31,6 +31,9 @@
 		},
 		"half_adder_icon": {
 			"textures": "textures/half_adder"
+		},
+		"full_adder_icon": {
+			"textures": "textures/full_adder"
 		}
 	}
 }

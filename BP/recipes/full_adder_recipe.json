@@ -1,0 +1,28 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "computarization:half_adder_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "",
+            " SS",
+            "SHO"
+        ],
+        "key": {
+            "H": {
+                "item": "computarization:half_adder"
+            },
+            "O": {
+                "item": "computarization:or_gate"
+            }
+        },
+        "result": {
+            "item": "computarization:half_adder",
+            "count": 1
+        }
+    }
+}
