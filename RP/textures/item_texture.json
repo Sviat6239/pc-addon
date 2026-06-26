@@ -37,6 +37,9 @@
 		},
 		"eight_bit_adder_icon": {
 			"textures": "textures/eight_bit_adder"
+		},
+		"substractor_icon": {
+			"textures": "textures/substractor"
 		}
 	}
 }

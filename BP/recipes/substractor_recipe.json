@@ -10,14 +10,14 @@
         "pattern": [
             "",
             "SS",
-            "SHO"
+            "SNF"
         ],
         "key": {
-            "H": {
-                "item": "computarization:half_adder"
+            "N": {
+                "item": "computarization:not_gate"
             },
-            "O": {
-                "item": "computarization:or_gate"
+            "F": {
+                "item": "computarization:full_adder"
             }
         },
         "result": {
