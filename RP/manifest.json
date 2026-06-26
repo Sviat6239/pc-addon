@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Sviatoslav6239"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			26,
+			0
+		],
+		"uuid": "c5a34db3-d987-4399-8335-3de2108802d7",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "edd5ad72-be30-4e1f-8a28-09c0a38133cf",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "6eab43f8-1478-4e4f-9891-70d40161588d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

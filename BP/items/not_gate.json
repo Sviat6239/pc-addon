@@ -1,0 +1,18 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "computarization:not_gate",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "not_gate_icon"
+            },
+            "minecraft:display_name": {
+                "value": "NOT Gate"
+            },
+            "minecraft:max_stack_size": 64
+        }
+    }
+}
