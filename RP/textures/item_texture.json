@@ -4,6 +4,27 @@
 	"texture_data": {
 		"transistor_icon": {
 			"textures": "textures/transistor"
+		},
+		"and_gate_icon": {
+			"textures": "textures/and_gate"
+		},
+		"nand_gate_icon": {
+			"textures": "textures/nand_gate"
+		},
+		"nor_gate_icon": {
+			"textures": "textures/nor_gate"
+		},
+		"not_gate_icon": {
+			"textures": "textures/not_gate"
+		},
+		"or_gate_icon": {
+			"textures": "textures/or_gate"
+		},
+		"xnor_gate_icon": {
+			"textures": "textures/xnor_gate"
+		},
+		"xor_gate_icon": {
+			"textures": "textures/xor_gate"
 		}
 	}
 }
