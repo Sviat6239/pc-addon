@@ -34,6 +34,9 @@
 		},
 		"full_adder_icon": {
 			"textures": "textures/full_adder"
+		},
+		"eight_bit_adder_icon": {
+			"textures": "textures/eight_bit_adder"
 		}
 	}
 }

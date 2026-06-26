@@ -1,0 +1,28 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "computarization:eight_bit_adder_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "FFF",
+            "FSF",
+            "FFF"
+        ],
+        "key": {
+            "F": {
+                "item": "computarization:full_adder"
+            },
+            "S": {
+                "item": "computarization:smt_package"
+            }
+        },
+        "result": {
+            "item": "computarization:eight_bit_adder",
+            "count": 1
+        }
+    }
+}

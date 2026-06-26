@@ -11,3 +11,4 @@ item.computarization:xor_gate=XOR Gate
 item.computarization:smt_package=SMT Package
 item.computarizarion:half_adder=Half Adder
 item.computarization:full_adder=Full Adder
+item.computarization:eight_bit_adder=8Bit Adder
