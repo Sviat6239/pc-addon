@@ -28,6 +28,9 @@
 		},
 		"smt_package_icon": {
 			"textures": "textures/smt_package"
+		},
+		"half_adder_icon": {
+			"textures": "textures/half_adder"
 		}
 	}
 }
