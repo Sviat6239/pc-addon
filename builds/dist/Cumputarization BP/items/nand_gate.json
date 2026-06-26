@@ -1,0 +1,18 @@
+{
+	"format_version": "1.20.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "computarization:nand_gate",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "nand_gate_icon"
+			},
+			"minecraft:display_name": {
+				"value": "NAND Gate"
+			},
+			"minecraft:max_stack_size": 64
+		}
+	}
+}

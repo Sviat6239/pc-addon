@@ -1,0 +1,28 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "computarization:smt_package_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "FFF",
+            "FRF",
+            "FFF"
+        ],
+        "key": {
+            "R": {
+                "item": "minecraft:redstone"
+            },
+            "F": {
+                "item": "minecraft:flint"
+            }
+        },
+        "result": {
+            "item": "computarization:smt_package",
+            "count": 8
+        }
+    }
+}
