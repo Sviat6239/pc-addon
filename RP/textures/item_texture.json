@@ -25,6 +25,9 @@
 		},
 		"xor_gate_icon": {
 			"textures": "textures/xor_gate"
+		},
+		"smt_package_icon": {
+			"textures": "textures/smt_package"
 		}
 	}
 }
