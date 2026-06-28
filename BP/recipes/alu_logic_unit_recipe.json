@@ -1,0 +1,37 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "computarization:alu_logic_unit_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   ",
+            " OA",
+            "XRN"
+        ],
+        "key": {
+            "O": {
+                "item": "computarization:or_gate"
+            },
+            "A": {
+                "item": "computarization:and_gate"
+            },
+            "X": {
+                "item": "computarization:xor_gate"
+            },
+            "R": {
+                "item": "computarization:xnor_gate"
+            },
+            "N": {
+                "item": "computarization:not_gate"
+            }
+        },
+        "result": {
+            "item": "computarization:alu_logic_unit",
+            "count": 1
+        }
+    }
+}

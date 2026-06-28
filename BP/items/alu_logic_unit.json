@@ -1,0 +1,18 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "computarization:alu_logic_unit",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "alu_logic_unit_icon"
+            },
+            "minecraft:display_name": {
+                "value": "ALU Logic Unit"
+            },
+            "minecraft:max_stack_size": 64
+        }
+    }
+}

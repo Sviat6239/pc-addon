@@ -2,26 +2,26 @@
     "format_version": "1.20.0",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "computarization:substractor_recipe"
+            "identifier": "computarization:comparator_recipe"
         },
         "tags": [
             "crafting_table"
         ],
         "pattern": [
             "   ",
-            "   ",
-            " NF"
+            " X ",
+            " N "
         ],
         "key": {
+            "X": {
+                "item": "computarization:xor_gate"
+            },
             "N": {
                 "item": "computarization:not_gate"
-            },
-            "F": {
-                "item": "computarization:full_adder"
             }
         },
         "result": {
-            "item": "computarization:substractor",
+            "item": "computarization:comparator",
             "count": 1
         }
     }

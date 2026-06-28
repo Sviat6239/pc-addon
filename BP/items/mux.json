@@ -1,0 +1,18 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "computarization:mux",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "mux_icon"
+            },
+            "minecraft:display_name": {
+                "value": "MUX"
+            },
+            "minecraft:max_stack_size": 64
+        }
+    }
+}
